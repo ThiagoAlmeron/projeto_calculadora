@@ -329,7 +329,7 @@ java -cp bin calculadora.TesteCalculadora
 
 # 15. Link do Repositório
 
-🔗 **https://github.com/SEU_USUARIO/projeto_calculadora**
+🔗 **https://github.com/ThiagoAlmeron/projeto_calculadora**
 
 ---
 
